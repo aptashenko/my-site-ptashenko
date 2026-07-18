@@ -2,7 +2,7 @@ export const contactEmail = 'hello@example.com';
 
 export const contactHref = `mailto:${contactEmail}`;
 
-export const telegramHref = 'https://t.me/your_username';
+export const telegramHref = 'https://t.me/aptashenko';
 
 export const profilePhoto = '/me.png';
 
