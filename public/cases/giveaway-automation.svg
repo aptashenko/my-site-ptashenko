@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" fill="none">
+  <rect width="1200" height="760" fill="#F6F8FB"/>
+  <rect x="82" y="82" width="1036" height="596" rx="22" fill="#FFFFFF" stroke="#D8E0EA"/>
+  <text x="132" y="154" fill="#0F766E" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="800">GIVEAWAY AUTOMATION</text>
+  <text x="132" y="212" fill="#0B1220" font-family="Inter, Arial, sans-serif" font-size="44" font-weight="800">Lottery and winner management</text>
+  <rect x="132" y="278" width="286" height="320" rx="16" fill="#EEF3F7" stroke="#D8E0EA"/>
+  <text x="166" y="334" fill="#0B1220" font-family="Inter, Arial, sans-serif" font-size="27" font-weight="800">Participants</text>
+  <rect x="166" y="374" width="204" height="44" rx="8" fill="#FFFFFF" stroke="#D8E0EA"/>
+  <text x="188" y="402" fill="#5B6472" font-family="Inter, Arial, sans-serif" font-size="15">ID 000421 verified</text>
+  <rect x="166" y="434" width="204" height="44" rx="8" fill="#FFFFFF" stroke="#D8E0EA"/>
+  <text x="188" y="462" fill="#5B6472" font-family="Inter, Arial, sans-serif" font-size="15">ID 000422 pending</text>
+  <rect x="166" y="494" width="204" height="44" rx="8" fill="#FFFFFF" stroke="#D8E0EA"/>
+  <text x="188" y="522" fill="#5B6472" font-family="Inter, Arial, sans-serif" font-size="15">ID 000423 verified</text>
+  <rect x="458" y="278" width="286" height="320" rx="16" fill="#0B1220"/>
+  <text x="492" y="334" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="27" font-weight="800">Draw engine</text>
+  <circle cx="601" cy="447" r="72" fill="#F6F8FB"/>
+  <path d="M601 389L617 427L658 431L627 458L636 499L601 478L566 499L575 458L544 431L585 427L601 389Z" fill="#0F766E"/>
+  <text x="532" y="552" fill="#D9F3EF" font-family="Inter, Arial, sans-serif" font-size="17">Winner selection rules</text>
+  <rect x="784" y="278" width="286" height="320" rx="16" fill="#EEF3F7" stroke="#D8E0EA"/>
+  <text x="818" y="334" fill="#0B1220" font-family="Inter, Arial, sans-serif" font-size="27" font-weight="800">Notifications</text>
+  <rect x="818" y="374" width="208" height="58" rx="12" fill="#FFFFFF" stroke="#D8E0EA"/>
+  <text x="842" y="408" fill="#5B6472" font-family="Inter, Arial, sans-serif" font-size="15">Campaign started</text>
+  <rect x="818" y="452" width="208" height="58" rx="12" fill="#FFFFFF" stroke="#D8E0EA"/>
+  <text x="842" y="486" fill="#5B6472" font-family="Inter, Arial, sans-serif" font-size="15">Winner announced</text>
+  <path d="M418 438H458" stroke="#0F766E" stroke-width="4" stroke-linecap="round"/>
+  <path d="M744 438H784" stroke="#0F766E" stroke-width="4" stroke-linecap="round"/>
+  <rect x="132" y="632" width="938" height="26" rx="13" fill="#D9F3EF"/>
+  <rect x="132" y="632" width="612" height="26" rx="13" fill="#0F766E"/>
+</svg>

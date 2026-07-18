@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" fill="none">
+  <rect width="1200" height="760" fill="#F6F8FB"/>
+  <rect x="70" y="70" width="420" height="620" rx="28" fill="#0B1220"/>
+  <rect x="95" y="118" width="370" height="524" rx="18" fill="#F6F8FB"/>
+  <text x="124" y="164" fill="#0F766E" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="800">SPEAKING CLUB BOT</text>
+  <rect x="124" y="206" width="256" height="58" rx="14" fill="#FFFFFF" stroke="#D8E0EA"/>
+  <text x="146" y="242" fill="#0B1220" font-family="Inter, Arial, sans-serif" font-size="17" font-weight="700">Choose a session</text>
+  <rect x="186" y="286" width="250" height="66" rx="14" fill="#D9F3EF"/>
+  <text x="210" y="314" fill="#0B1220" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700">Thursday · 19:00</text>
+  <text x="210" y="338" fill="#5B6472" font-family="Inter, Arial, sans-serif" font-size="14">2 seats available</text>
+  <rect x="124" y="382" width="296" height="76" rx="14" fill="#FFFFFF" stroke="#D8E0EA"/>
+  <text x="146" y="412" fill="#0B1220" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700">You are registered</text>
+  <text x="146" y="438" fill="#5B6472" font-family="Inter, Arial, sans-serif" font-size="14">Reminder will be sent automatically</text>
+  <rect x="565" y="116" width="565" height="170" rx="16" fill="#FFFFFF" stroke="#D8E0EA"/>
+  <text x="602" y="162" fill="#0F766E" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="800">GOOGLE SHEETS</text>
+  <text x="602" y="208" fill="#0B1220" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="800">Schedule and queue sync</text>
+  <rect x="565" y="326" width="255" height="190" rx="16" fill="#FFFFFF" stroke="#D8E0EA"/>
+  <rect x="875" y="326" width="255" height="190" rx="16" fill="#FFFFFF" stroke="#D8E0EA"/>
+  <text x="598" y="378" fill="#0B1220" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="800">Auto reminders</text>
+  <text x="908" y="378" fill="#0B1220" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="800">Queue invites</text>
+  <path d="M490 385C535 385 535 220 565 220" stroke="#0F766E" stroke-width="4" stroke-linecap="round"/>
+  <path d="M490 430C590 430 590 420 565 420" stroke="#0F766E" stroke-width="4" stroke-linecap="round"/>
+</svg>

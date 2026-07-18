@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" fill="none">
+  <rect width="1200" height="760" fill="#F6F8FB"/>
+  <rect x="72" y="76" width="1056" height="608" rx="22" fill="#0B1220"/>
+  <rect x="108" y="112" width="496" height="536" rx="18" fill="#F6F8FB"/>
+  <text x="144" y="166" fill="#0F766E" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="800">KEGEL QUIZ</text>
+  <text x="144" y="222" fill="#0B1220" font-family="Inter, Arial, sans-serif" font-size="42" font-weight="800">Find your training path</text>
+  <text x="144" y="276" fill="#5B6472" font-family="Inter, Arial, sans-serif" font-size="20">Scenario-based funnel for men's health trainings.</text>
+  <rect x="144" y="340" width="392" height="58" rx="12" fill="#FFFFFF" stroke="#D8E0EA"/>
+  <text x="170" y="376" fill="#0B1220" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700">Goal: control and confidence</text>
+  <rect x="144" y="420" width="392" height="58" rx="12" fill="#FFFFFF" stroke="#D8E0EA"/>
+  <text x="170" y="456" fill="#0B1220" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700">Goal: recovery and routine</text>
+  <rect x="660" y="132" width="390" height="120" rx="16" fill="#F6F8FB"/>
+  <text x="694" y="180" fill="#0F766E" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="800">SCENARIOS</text>
+  <text x="694" y="218" fill="#0B1220" font-family="Inter, Arial, sans-serif" font-size="26" font-weight="800">Offer testing and routing</text>
+  <rect x="660" y="302" width="390" height="120" rx="16" fill="#F6F8FB"/>
+  <text x="694" y="350" fill="#0F766E" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="800">CRM</text>
+  <text x="694" y="388" fill="#0B1220" font-family="Inter, Arial, sans-serif" font-size="26" font-weight="800">Lead data handoff</text>
+  <rect x="660" y="472" width="390" height="120" rx="16" fill="#F6F8FB"/>
+  <text x="694" y="520" fill="#0F766E" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="800">SUPPORT</text>
+  <text x="694" y="558" fill="#0B1220" font-family="Inter, Arial, sans-serif" font-size="26" font-weight="800">New quiz branches</text>
+</svg>

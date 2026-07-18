@@ -1,0 +1,215 @@
+[
+  {
+    "id": "flight-agents",
+    "icon": "flight",
+    "stack": [
+      "vue",
+      "nuxt",
+      "node",
+      "api"
+    ],
+    "previewImage": "/cases/flight-agents.svg",
+    "fullImage": "/cases/flight-agents.svg",
+    "content": {
+      "en": {
+        "type": "B2B travel platform",
+        "title": "Air ticket booking for agents",
+        "summary": "Support and development of new features for an agent-facing platform used to search, compare, and buy airline tickets.",
+        "result": "A maintained product surface with ongoing improvements for operational travel workflows.",
+        "imageAlt": "Preview of an agent airline ticket booking interface"
+      },
+      "ru": {
+        "type": "B2B travel platform",
+        "title": "Покупка авиабилетов для агентов",
+        "summary": "Саппорт и разработка новых функций для платформы, где агенты ищут, сравнивают и покупают авиабилеты.",
+        "result": "Поддерживаемый продукт с постоянными улучшениями для операционных travel-процессов.",
+        "imageAlt": "Превью интерфейса покупки авиабилетов для агентов"
+      },
+      "uk": {
+        "type": "B2B travel platform",
+        "title": "Купівля авіаквитків для агентів",
+        "summary": "Саппорт і розробка нових функцій для платформи, де агенти шукають, порівнюють і купують авіаквитки.",
+        "result": "Підтримуваний продукт із постійними покращеннями для операційних travel-процесів.",
+        "imageAlt": "Превʼю інтерфейсу купівлі авіаквитків для агентів"
+      }
+    }
+  },
+  {
+    "id": "speaking-club-bot",
+    "icon": "chatbot",
+    "stack": [
+      "telegram",
+      "node",
+      "googleSheets",
+      "api"
+    ],
+    "previewImage": "/cases/speaking-club-bot.svg",
+    "fullImage": "/cases/speaking-club-bot.svg",
+    "content": {
+      "en": {
+        "type": "Speaking club bot",
+        "title": "Automation for speaking club sessions",
+        "summary": "Chatbot automation with Google Sheets, schedule management, automatic participant notifications, and queue-based invitations.",
+        "result": "Less manual coordination and a clearer flow for participants and organizers.",
+        "imageAlt": "Preview of a speaking club chatbot automation flow"
+      },
+      "ru": {
+        "type": "Speaking club bot",
+        "title": "Автоматизация speaking club",
+        "summary": "Чат-бот с Google Sheets, ведением графика, автоматическими уведомлениями участникам и автоприглашениями людей из очереди.",
+        "result": "Меньше ручной координации и понятный процесс для участников и организаторов.",
+        "imageAlt": "Превью автоматизации чат-бота для speaking club"
+      },
+      "uk": {
+        "type": "Speaking club bot",
+        "title": "Автоматизація speaking club",
+        "summary": "Чат-бот з Google Sheets, веденням графіка, автоматичними сповіщеннями учасникам і автозапрошеннями людей з черги.",
+        "result": "Менше ручної координації та зрозумілий процес для учасників і організаторів.",
+        "imageAlt": "Превʼю автоматизації чат-бота для speaking club"
+      }
+    }
+  },
+  {
+    "id": "women-community-bot",
+    "icon": "community",
+    "stack": [
+      "telegram",
+      "node",
+      "api",
+      "stripe",
+      "wayforpay"
+    ],
+    "previewImage": "/cases/women-community-bot.svg",
+    "fullImage": "/cases/women-community-bot.svg",
+    "content": {
+      "en": {
+        "type": "Community monetization bot",
+        "title": "Chatbot for a women’s community",
+        "summary": "Telegram bot for selling materials, managing paid access to a private club, subscription reminders, and automatic removal when access expires.",
+        "result": "A cleaner paid community flow with automated access control and fewer manual subscription checks.",
+        "imageAlt": "Preview of a paid women’s community chatbot flow"
+      },
+      "ru": {
+        "type": "Монетизация сообщества",
+        "title": "Чат-бот для женского сообщества",
+        "summary": "Бот для продажи материалов, подписки на закрытый клуб, напоминаний об окончании подписки и автоматического удаления участников с истекшим доступом.",
+        "result": "Более прозрачная платная механика сообщества без ручной проверки оплат и доступа.",
+        "imageAlt": "Превью чат-бота для платного женского сообщества"
+      },
+      "uk": {
+        "type": "Монетизація спільноти",
+        "title": "Чат-бот для жіночої спільноти",
+        "summary": "Бот для продажу матеріалів, підписки на закритий клуб, нагадувань про завершення підписки та автоматичного видалення учасників із простроченим доступом.",
+        "result": "Прозоріша платна механіка спільноти без ручної перевірки оплат і доступу.",
+        "imageAlt": "Превʼю чат-бота для платної жіночої спільноти"
+      }
+    }
+  },
+  {
+    "id": "kegel-quiz",
+    "icon": "funnel",
+    "stack": [
+      "vue",
+      "nuxt",
+      "node",
+      "crm"
+    ],
+    "previewImage": "/cases/kegel-quiz.svg",
+    "fullImage": "/cases/kegel-quiz.svg",
+    "content": {
+      "en": {
+        "type": "Sales funnel",
+        "title": "Kegel Quiz for men’s health trainings",
+        "summary": "Support and development of new quiz scenarios for a funnel promoting men’s health training programs.",
+        "result": "A more flexible funnel for testing offers, scenarios, and user paths.",
+        "imageAlt": "Preview of a sales funnel quiz interface"
+      },
+      "ru": {
+        "type": "Воронка продаж",
+        "title": "Kegel Quiz для тренингов мужского здоровья",
+        "summary": "Саппорт и разработка новых сценариев квиза для продвижения тренингов мужского здоровья.",
+        "result": "Более гибкая воронка для тестирования офферов, сценариев и пользовательских путей.",
+        "imageAlt": "Превью интерфейса квиза для воронки продаж"
+      },
+      "uk": {
+        "type": "Воронка продажів",
+        "title": "Kegel Quiz для тренінгів чоловічого здоровʼя",
+        "summary": "Саппорт і розробка нових сценаріїв квізу для просування тренінгів чоловічого здоровʼя.",
+        "result": "Гнучкіша воронка для тестування оферів, сценаріїв і користувацьких шляхів.",
+        "imageAlt": "Превʼю інтерфейсу квізу для воронки продажів"
+      }
+    }
+  },
+  {
+    "id": "subscription-services",
+    "icon": "subscription",
+    "stack": [
+      "vue",
+      "nuxt",
+      "node",
+      "stripe",
+      "wayforpay"
+    ],
+    "previewImage": "/cases/subscription-services.svg",
+    "fullImage": "/cases/subscription-services.svg",
+    "content": {
+      "en": {
+        "type": "Subscription services",
+        "title": "Interactive paid services",
+        "summary": "Creation and support of interactive subscription products with Stripe, WayForPay, and other payment providers.",
+        "result": "Reusable product foundations for paid interactive tools and recurring revenue flows.",
+        "imageAlt": "Preview of an interactive subscription service interface"
+      },
+      "ru": {
+        "type": "Подписочные сервисы",
+        "title": "Интерактивные сервисы с оплатой",
+        "summary": "Создание и поддержка интерактивных сервисов с подпиской через Stripe, WayForPay и другие платежные провайдеры.",
+        "result": "Переиспользуемая основа для платных интерактивных инструментов и recurring revenue.",
+        "imageAlt": "Превью интерактивного сервиса с подпиской"
+      },
+      "uk": {
+        "type": "Підписні сервіси",
+        "title": "Інтерактивні сервіси з оплатою",
+        "summary": "Створення та підтримка інтерактивних сервісів з підпискою через Stripe, WayForPay та інші платіжні провайдери.",
+        "result": "Переуживана основа для платних інтерактивних інструментів і recurring revenue.",
+        "imageAlt": "Превʼю інтерактивного сервісу з підпискою"
+      }
+    }
+  },
+  {
+    "id": "giveaway-automation",
+    "icon": "giveaway",
+    "stack": [
+      "node",
+      "telegram",
+      "googleSheets",
+      "postgres",
+      "api"
+    ],
+    "previewImage": "/cases/giveaway-automation.svg",
+    "fullImage": "/cases/giveaway-automation.svg",
+    "content": {
+      "en": {
+        "type": "Giveaway automation",
+        "title": "Automated giveaway and lottery management",
+        "summary": "System for managing giveaways, lotteries, participant IDs, eligibility checks, winner selection, and operational notifications.",
+        "result": "A repeatable mechanics layer for campaigns where entry tracking, transparency, and fast winner processing matter.",
+        "imageAlt": "Preview of an automated giveaway and lottery management dashboard"
+      },
+      "ru": {
+        "type": "Автоматизация розыгрышей",
+        "title": "Система управления giveaway и lottery",
+        "summary": "Автоматизированная система для розыгрышей, lottery-механик, ID участников, проверки условий, выбора победителей и уведомлений.",
+        "result": "Повторяемая механика кампаний, где важно быстро учитывать участников, прозрачно выбирать победителей и снижать ручную работу.",
+        "imageAlt": "Превью системы управления giveaway и lottery"
+      },
+      "uk": {
+        "type": "Автоматизація розіграшів",
+        "title": "Система керування giveaway і lottery",
+        "summary": "Автоматизована система для розіграшів, lottery-механік, ID учасників, перевірки умов, вибору переможців і сповіщень.",
+        "result": "Повторювана механіка кампаній, де важливо швидко враховувати учасників, прозоро обирати переможців і зменшувати ручну роботу.",
+        "imageAlt": "Превʼю системи керування giveaway і lottery"
+      }
+    }
+  }
+]

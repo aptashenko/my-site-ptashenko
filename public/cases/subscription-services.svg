@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" fill="none">
+  <rect width="1200" height="760" fill="#F6F8FB"/>
+  <rect x="82" y="82" width="1036" height="596" rx="22" fill="#FFFFFF" stroke="#D8E0EA"/>
+  <text x="132" y="154" fill="#0F766E" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="800">INTERACTIVE SUBSCRIPTION SERVICE</text>
+  <text x="132" y="212" fill="#0B1220" font-family="Inter, Arial, sans-serif" font-size="44" font-weight="800">Recurring payment flows</text>
+  <rect x="132" y="280" width="280" height="270" rx="16" fill="#EEF3F7" stroke="#D8E0EA"/>
+  <text x="166" y="336" fill="#0B1220" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="800">Stripe</text>
+  <text x="166" y="382" fill="#5B6472" font-family="Inter, Arial, sans-serif" font-size="18">Plans, trials, invoices</text>
+  <rect x="460" y="280" width="280" height="270" rx="16" fill="#EEF3F7" stroke="#D8E0EA"/>
+  <text x="494" y="336" fill="#0B1220" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="800">WayForPay</text>
+  <text x="494" y="382" fill="#5B6472" font-family="Inter, Arial, sans-serif" font-size="18">Cards, invoices, local flows</text>
+  <rect x="788" y="280" width="280" height="270" rx="16" fill="#0B1220"/>
+  <text x="822" y="336" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="800">Access</text>
+  <text x="822" y="382" fill="#D9F3EF" font-family="Inter, Arial, sans-serif" font-size="18">Interactive tools and gated UX</text>
+  <path d="M412 415h48" stroke="#0F766E" stroke-width="4" stroke-linecap="round"/>
+  <path d="M740 415h48" stroke="#0F766E" stroke-width="4" stroke-linecap="round"/>
+  <rect x="166" y="456" width="178" height="46" rx="8" fill="#0B1220"/>
+  <rect x="494" y="456" width="178" height="46" rx="8" fill="#0B1220"/>
+  <rect x="822" y="456" width="178" height="46" rx="8" fill="#F6F8FB"/>
+</svg>
