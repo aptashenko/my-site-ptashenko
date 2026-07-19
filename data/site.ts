@@ -1,4 +1,4 @@
-export const contactEmail = 'hello@example.com';
+export const contactEmail = 'aptashenko2019@gmail.com';
 
 export const contactHref = `mailto:${contactEmail}`;
 
