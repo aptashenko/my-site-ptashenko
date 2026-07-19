@@ -25,7 +25,7 @@ const { content, locale, setLocale } = useSiteLocale();
       <div class="language-switcher" :aria-label="content.header.languageAria">
         <Languages class="language-icon" :size="16" aria-hidden="true" />
         <button
-          v-for="availableLocale in supportedLocales"
+          v-for="availableLocale in supportedLocales.filter(item => item !== 'ru')"
           :key="availableLocale"
           type="button"
           :class="{ active: locale === availableLocale }"
