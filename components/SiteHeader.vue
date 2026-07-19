@@ -1,6 +1,6 @@
 <script setup lang="ts">
-import { Languages, Mail } from '@lucide/vue';
-import { contactHref } from '~/data/site';
+import { Languages, Send } from '@lucide/vue';
+import { telegramHref } from '~/data/site';
 import { localeLabels, supportedLocales } from '~/data/translations';
 
 const { content, locale, setLocale } = useSiteLocale();
@@ -36,8 +36,8 @@ const { content, locale, setLocale } = useSiteLocale();
         </button>
       </div>
 
-      <a class="header-action" :href="contactHref">
-        <Mail :size="16" aria-hidden="true" />
+      <a class="header-action" :href="telegramHref" target="_blank" rel="noreferrer">
+        <Send :size="16" aria-hidden="true" />
         {{ content.header.write }}
       </a>
     </div>
