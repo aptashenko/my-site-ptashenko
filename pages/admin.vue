@@ -48,7 +48,6 @@ const stackOptions: CaseStack[] = [
 
 const localeTabs: Array<{ id: Locale; label: string }> = [
   { id: 'en', label: 'EN' },
-  { id: 'ru', label: 'RU' },
   { id: 'uk', label: 'UK' },
 ];
 
@@ -62,7 +61,7 @@ const savePending = ref(false);
 const reviewSavePending = ref(false);
 const selectedCaseId = ref<string | null>(null);
 const selectedReviewId = ref<string | null>(null);
-const activeLocale = ref<Locale>('ru');
+const activeLocale = ref<Locale>('en');
 const errorMessage = ref('');
 const successMessage = ref('');
 const cases = ref<CaseRecord[]>([]);
