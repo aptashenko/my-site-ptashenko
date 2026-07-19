@@ -16,21 +16,21 @@ export const socialLinks: Array<{
   {
     id: 'linkedin',
     label: 'LinkedIn',
-    href: 'https://www.linkedin.com/in/your-profile',
+    href: 'https://www.linkedin.com/in/aptashenko',
   },
   {
     id: 'instagram',
     label: 'Instagram',
-    href: 'https://www.instagram.com/your-profile',
+    href: 'https://www.instagram.com/a_ptashenko',
   },
   {
     id: 'github',
     label: 'GitHub',
-    href: 'https://github.com/your-profile',
+    href: 'http://github.com/aptashenko',
   },
   {
     id: 'threads',
     label: 'Threads',
-    href: 'https://www.threads.net/@your-profile',
+    href: 'https://www.threads.com/@a_ptashenko',
   },
 ];
