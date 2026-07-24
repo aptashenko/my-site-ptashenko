@@ -5,6 +5,7 @@
     <main id="top">
       <SiteHero />
       <ServicesSection />
+      <PricingSection />
       <CasesSection />
       <ProcessSection />
       <ReviewsSection />

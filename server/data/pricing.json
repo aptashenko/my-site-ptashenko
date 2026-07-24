@@ -1,0 +1,342 @@
+{
+  "content": {
+    "en": {
+      "kicker": "Pricing",
+      "title": "Bot and CRM development pricing",
+      "intro": "Choose a practical starting point for bots, CRM systems, and business automation.",
+      "detailsLabel": "What can be included",
+      "suitableLabel": "Best for",
+      "actionLabel": "Discuss project",
+      "factorsTitle": "What affects the cost",
+      "factorsIntro": "Cost depends on business logic and process complexity, not only on the number of screens.",
+      "factors": [
+        "User roles",
+        "Pipeline stages",
+        "Online payments",
+        "Integrations",
+        "Personal account",
+        "Documents",
+        "Analytics and reports",
+        "Data import",
+        "Security",
+        "Mobile version",
+        "Technical support"
+      ],
+      "example": {
+        "title": "Automation example",
+        "beforeTitle": "Before",
+        "beforeText": "Clients write in WhatsApp, managers copy orders into Google Sheets manually, and payments, debt, and stock are tracked separately. Information can get lost and analytics are hard to trust.",
+        "afterTitle": "After",
+        "afterText": "The request enters the CRM automatically, a customer profile and order are created, managers see communication history and payment status, and leadership sees sales, debt, and team performance in one place."
+      }
+    },
+    "ru": {
+      "kicker": "Стоимость",
+      "title": "Ориентировочная стоимость ботов и CRM-систем",
+      "intro": "Цена зависит от сложности логики, интеграций, ролей пользователей и объема автоматизации. Ниже - ориентиры по типовым проектам.",
+      "detailsLabel": "Что может входить",
+      "suitableLabel": "Подходит",
+      "actionLabel": "Обсудить проект",
+      "factorsTitle": "Что влияет на стоимость",
+      "factorsIntro": "Стоимость зависит не только от количества экранов, но и от сложности бизнес-процессов.",
+      "factors": [
+        "Роли пользователей",
+        "Этапы воронки",
+        "Онлайн-оплата",
+        "Интеграции",
+        "Личный кабинет",
+        "Документы",
+        "Аналитика и отчеты",
+        "Импорт данных",
+        "Безопасность",
+        "Мобильная версия",
+        "Техническая поддержка"
+      ],
+      "example": {
+        "title": "Пример автоматизации",
+        "beforeTitle": "До внедрения",
+        "beforeText": "Клиенты пишут в WhatsApp, менеджеры вручную переносят заказы в Google Таблицы, отдельно считают оплаты, долги и остатки. Информация может теряться, а руководителю сложно получить точную аналитику.",
+        "afterTitle": "После внедрения",
+        "afterText": "Заявка автоматически попадает в CRM, создается карточка клиента и заказ. Менеджер видит историю общения, оплату и задолженность. Руководитель видит продажи, долги и эффективность менеджеров в одном месте."
+      }
+    },
+    "uk": {
+      "kicker": "Вартість",
+      "title": "Орієнтовна вартість ботів і CRM-систем",
+      "intro": "Ціна залежить від складності логіки, інтеграцій, ролей користувачів та обсягу автоматизації. Нижче - орієнтири для типових проєктів.",
+      "detailsLabel": "Що може входити",
+      "suitableLabel": "Підходить",
+      "actionLabel": "Обговорити проєкт",
+      "factorsTitle": "Що впливає на вартість",
+      "factorsIntro": "Вартість залежить не лише від кількості екранів, а й від складності бізнес-процесів.",
+      "factors": [
+        "Ролі користувачів",
+        "Етапи воронки",
+        "Онлайн-оплата",
+        "Інтеграції",
+        "Особистий кабінет",
+        "Документи",
+        "Аналітика і звіти",
+        "Імпорт даних",
+        "Безпека",
+        "Мобільна версія",
+        "Технічна підтримка"
+      ],
+      "example": {
+        "title": "Приклад автоматизації",
+        "beforeTitle": "До впровадження",
+        "beforeText": "Клієнти пишуть у WhatsApp, менеджери вручну переносять замовлення в Google Таблиці, окремо рахують оплати, борги та залишки. Інформація може губитися, а керівнику складно отримати точну аналітику.",
+        "afterTitle": "Після впровадження",
+        "afterText": "Заявка автоматично потрапляє в CRM, створюється картка клієнта і замовлення. Менеджер бачить історію спілкування, оплату і заборгованість. Керівник бачить продажі, борги та ефективність менеджерів в одному місці."
+      }
+    }
+  },
+  "tiers": [
+    {
+      "id": "simple-bot",
+      "price": "from $100",
+      "category": "Bot",
+      "highlighted": false,
+      "content": {
+        "en": {
+          "name": "Simple Bot",
+          "description": "For simple business tasks.",
+          "suitableFor": "For simple business tasks.",
+          "features": [
+            "FAQ automation",
+            "Contact form",
+            "Admin notifications",
+            "Telegram bot"
+          ]
+        },
+        "ru": {
+          "name": "Простой бот",
+          "description": "Для простых бизнес-задач.",
+          "suitableFor": "Для простых бизнес-задач.",
+          "features": [
+            "FAQ-автоматизация",
+            "Форма контактов",
+            "Уведомления администратору",
+            "Telegram-бот"
+          ]
+        },
+        "uk": {
+          "name": "Простий бот",
+          "description": "Для простих бізнес-задач.",
+          "suitableFor": "Для простих бізнес-задач.",
+          "features": [
+            "FAQ-автоматизація",
+            "Форма контактів",
+            "Сповіщення адміністратору",
+            "Telegram-бот"
+          ]
+        }
+      }
+    },
+    {
+      "id": "lead-intake-bot",
+      "price": "$250-500",
+      "category": "Bot",
+      "highlighted": false,
+      "content": {
+        "en": {
+          "name": "Lead Intake Bot",
+          "description": "Collect customer requests automatically.",
+          "suitableFor": "Collect customer requests automatically.",
+          "features": [
+            "Questionnaire",
+            "Lead collection",
+            "Price estimation",
+            "Google Sheets"
+          ]
+        },
+        "ru": {
+          "name": "Бот для заявок",
+          "description": "Автоматически собирает заявки клиентов.",
+          "suitableFor": "Автоматически собирает заявки клиентов.",
+          "features": [
+            "Анкета",
+            "Сбор лидов",
+            "Расчет стоимости",
+            "Google Таблицы"
+          ]
+        },
+        "uk": {
+          "name": "Бот для заявок",
+          "description": "Автоматично збирає заявки клієнтів.",
+          "suitableFor": "Автоматично збирає заявки клієнтів.",
+          "features": [
+            "Анкета",
+            "Збір лідів",
+            "Розрахунок вартості",
+            "Google Таблиці"
+          ]
+        }
+      }
+    },
+    {
+      "id": "sales-bot",
+      "price": "$500-900",
+      "category": "Sales",
+      "highlighted": false,
+      "content": {
+        "en": {
+          "name": "Sales Bot",
+          "description": "Automate sales and payments.",
+          "suitableFor": "Automate sales and payments.",
+          "features": [
+            "Product catalog",
+            "Online payments",
+            "Order management",
+            "Customer notifications"
+          ]
+        },
+        "ru": {
+          "name": "Бот продаж",
+          "description": "Автоматизирует продажи и оплаты.",
+          "suitableFor": "Автоматизирует продажи и оплаты.",
+          "features": [
+            "Каталог товаров",
+            "Онлайн-оплата",
+            "Управление заказами",
+            "Уведомления клиентам"
+          ]
+        },
+        "uk": {
+          "name": "Бот продажів",
+          "description": "Автоматизує продажі та оплати.",
+          "suitableFor": "Автоматизує продажі та оплати.",
+          "features": [
+            "Каталог товарів",
+            "Онлайн-оплата",
+            "Керування замовленнями",
+            "Сповіщення клієнтам"
+          ]
+        }
+      }
+    },
+    {
+      "id": "crm-starter",
+      "price": "$900-1800",
+      "category": "CRM",
+      "highlighted": false,
+      "content": {
+        "en": {
+          "name": "CRM Starter",
+          "description": "Manage customers and sales.",
+          "suitableFor": "Manage customers and sales.",
+          "features": [
+            "Customer database",
+            "Sales pipeline",
+            "Tasks",
+            "Reports"
+          ]
+        },
+        "ru": {
+          "name": "CRM Starter",
+          "description": "Управление клиентами и продажами.",
+          "suitableFor": "Управление клиентами и продажами.",
+          "features": [
+            "База клиентов",
+            "Воронка продаж",
+            "Задачи",
+            "Отчеты"
+          ]
+        },
+        "uk": {
+          "name": "CRM Starter",
+          "description": "Керування клієнтами та продажами.",
+          "suitableFor": "Керування клієнтами та продажами.",
+          "features": [
+            "База клієнтів",
+            "Воронка продажів",
+            "Задачі",
+            "Звіти"
+          ]
+        }
+      }
+    },
+    {
+      "id": "business-crm",
+      "price": "$1800-6000",
+      "category": "CRM",
+      "highlighted": false,
+      "content": {
+        "en": {
+          "name": "Business CRM",
+          "description": "Business process automation.",
+          "suitableFor": "Business process automation.",
+          "features": [
+            "Multi-user",
+            "Dashboards",
+            "Integrations",
+            "Automation"
+          ]
+        },
+        "ru": {
+          "name": "Business CRM",
+          "description": "Автоматизация бизнес-процессов.",
+          "suitableFor": "Автоматизация бизнес-процессов.",
+          "features": [
+            "Много пользователей",
+            "Дашборды",
+            "Интеграции",
+            "Автоматизация"
+          ]
+        },
+        "uk": {
+          "name": "Business CRM",
+          "description": "Автоматизація бізнес-процесів.",
+          "suitableFor": "Автоматизація бізнес-процесів.",
+          "features": [
+            "Багато користувачів",
+            "Дашборди",
+            "Інтеграції",
+            "Автоматизація"
+          ]
+        }
+      }
+    },
+    {
+      "id": "enterprise-platform",
+      "price": "Custom",
+      "category": "Platform",
+      "highlighted": false,
+      "content": {
+        "en": {
+          "name": "Enterprise Platform",
+          "description": "Custom software for enterprise companies.",
+          "suitableFor": "Custom software for enterprise companies.",
+          "features": [
+            "Unlimited users",
+            "API integrations",
+            "Advanced automation",
+            "Priority support"
+          ]
+        },
+        "ru": {
+          "name": "Enterprise Platform",
+          "description": "Индивидуальное ПО для enterprise-компаний.",
+          "suitableFor": "Индивидуальное ПО для enterprise-компаний.",
+          "features": [
+            "Безлимитные пользователи",
+            "API-интеграции",
+            "Сложная автоматизация",
+            "Приоритетная поддержка"
+          ]
+        },
+        "uk": {
+          "name": "Enterprise Platform",
+          "description": "Індивідуальне ПЗ для enterprise-компаній.",
+          "suitableFor": "Індивідуальне ПЗ для enterprise-компаній.",
+          "features": [
+            "Необмежені користувачі",
+            "API-інтеграції",
+            "Складна автоматизація",
+            "Пріоритетна підтримка"
+          ]
+        }
+      }
+    }
+  ]
+}

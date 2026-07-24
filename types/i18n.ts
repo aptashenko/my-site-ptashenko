@@ -68,6 +68,72 @@ export interface ReviewRecord {
   createdAt: string;
 }
 
+export interface PricingTierTranslation {
+  name: string;
+  description: string;
+  suitableFor: string;
+  features: string[];
+}
+
+export interface PricingTierRecord {
+  id: string;
+  price: string;
+  category: string;
+  highlighted: boolean;
+  content: Record<Locale, PricingTierTranslation>;
+}
+
+export interface PricingExampleTranslation {
+  title: string;
+  beforeTitle: string;
+  beforeText: string;
+  afterTitle: string;
+  afterText: string;
+}
+
+export interface PricingSectionTranslation {
+  kicker: string;
+  title: string;
+  intro: string;
+  detailsLabel: string;
+  suitableLabel: string;
+  actionLabel: string;
+  factorsTitle: string;
+  factorsIntro: string;
+  factors: string[];
+  example: PricingExampleTranslation;
+}
+
+export interface PricingRecord {
+  content: Record<Locale, PricingSectionTranslation>;
+  tiers: PricingTierRecord[];
+}
+
+export interface PricingTierItem {
+  id: string;
+  price: string;
+  category: string;
+  highlighted: boolean;
+  name: string;
+  description: string;
+  suitableFor: string;
+  features: string[];
+}
+
+export interface PricingSection {
+  kicker: string;
+  title: string;
+  intro: string;
+  detailsLabel: string;
+  suitableLabel: string;
+  actionLabel: string;
+  factorsTitle: string;
+  factorsIntro: string;
+  factors: string[];
+  example: PricingExampleTranslation;
+  tiers: PricingTierItem[];
+}
+
 export interface ProcessStep {
   title: string;
   description: string;
@@ -82,6 +148,7 @@ export interface SiteTranslations {
     aria: string;
     sectionsAria: string;
     services: string;
+    pricing: string;
     cases: string;
     process: string;
     reviews: string;

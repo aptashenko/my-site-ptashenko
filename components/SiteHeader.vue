@@ -15,6 +15,7 @@ const { content, locale, setLocale } = useSiteLocale();
 
     <nav class="nav-links" :aria-label="content.header.sectionsAria">
       <a href="#services">{{ content.header.services }}</a>
+      <a href="#pricing">{{ content.header.pricing }}</a>
       <a href="#cases">{{ content.header.cases }}</a>
       <a href="#process">{{ content.header.process }}</a>
       <a href="#reviews">{{ content.header.reviews }}</a>
