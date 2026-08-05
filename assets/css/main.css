@@ -8,10 +8,10 @@
   --color-dark: #0b1220;
   --color-dark-rgb: 11, 18, 32;
   --color-muted: #5b6472;
-  --color-primary: #0f766e;
+  --color-primary: #2F6FD6;
   --color-primary-rgb: 15, 118, 110;
   --color-primary-soft: #d9f3ef;
-  --color-accent: #2563eb;
+  --color-accent: #2458B5;
   --color-border: #d8e0ea;
   --color-border-strong: #b9c6d6;
   --color-success: #16a34a;
@@ -48,7 +48,21 @@ a {
 }
 
 .site-shell {
+  position: relative;
   min-height: 100vh;
+  isolation: isolate;
+}
+
+.site-shell::before {
+  position: fixed;
+  z-index: -1;
+  inset: 0;
+  background:
+    linear-gradient(rgba(var(--color-bg-rgb), 0.66), rgba(var(--color-bg-rgb), 0.76)),
+    url("../bg.png") center / cover no-repeat;
+  background-attachment: fixed;
+  content: "";
+  pointer-events: none;
 }
 
 .site-header {
@@ -174,12 +188,7 @@ a {
   display: grid;
   min-height: 100svh;
   padding: 148px 20px 56px;
-  background:
-    linear-gradient(90deg, rgba(var(--color-dark-rgb), 0.08) 1px, transparent 1px),
-    linear-gradient(180deg, rgba(var(--color-dark-rgb), 0.08) 1px, transparent 1px),
-    var(--color-bg);
-  background-size: 72px 72px;
-  animation: hero-grid-drift 18s linear infinite;
+  background: linear-gradient(rgba(var(--color-bg-rgb), 0.22), rgba(var(--color-bg-rgb), 0.68));
 }
 
 .hero-content {
