@@ -81,7 +81,6 @@ export const translations = {
       resultLabel: 'Result',
       stackLabel: 'Technology stack',
       projectLinkLabel: 'View project',
-      projectLinkPlaceholder: 'Project link',
       openPreviewLabel: 'Open case',
       closePreviewLabel: 'Close case',
       previousLabel: 'Previous cases',
@@ -254,7 +253,6 @@ export const translations = {
       resultLabel: 'Результат',
       stackLabel: 'Стек технологий',
       projectLinkLabel: 'Смотреть проект',
-      projectLinkPlaceholder: 'Ссылка на проект',
       openPreviewLabel: 'Открыть кейс',
       closePreviewLabel: 'Закрыть кейс',
       previousLabel: 'Предыдущие кейсы',
@@ -359,7 +357,7 @@ export const translations = {
     meta: {
       title: 'Ptashenko - SaaS, чат-боти, автоматизації та веб-продукти',
       description:
-        'Розробляю веб-продукти, чат-боти, автоматизації та SaaS з нуля на Vue.js, Nuxt.js і Node.js.',
+        'Розробляю веб-продукти, чат-боти, автоматизації та SaaS з нуля.',
     },
     header: {
       aria: 'Головна навігація',
@@ -378,7 +376,7 @@ export const translations = {
       eyebrow: 'Vue, Nuxt, Node - продуктова розробка',
       title: 'Роблю веб-продукти, чат-боти, автоматизації та SaaS з нуля.',
       copy:
-        'Працюю як незалежний спеціаліст: продумую структуру продукту, frontend, backend, інтеграції та запуск. Проєкт відчувається як робота невеликої технічної команди, навіть якщо стартуємо з однієї людини.',
+        'Працюю як незалежний спеціаліст: проектую структуру продукту, frontend, backend, інтеграції та запуск. Проєкт відчувається як робота невеликої технічної команди, навіть якщо стартуємо з однієї людини.',
       actionsAria: 'Основні дії',
       discuss: 'Обговорити проєкт',
       works: 'Дивитися роботи',
@@ -427,7 +425,6 @@ export const translations = {
       resultLabel: 'Результат',
       stackLabel: 'Стек технологій',
       projectLinkLabel: 'Дивитися проєкт',
-      projectLinkPlaceholder: 'Посилання на проєкт',
       openPreviewLabel: 'Відкрити кейс',
       closePreviewLabel: 'Закрити кейс',
       previousLabel: 'Попередні кейси',

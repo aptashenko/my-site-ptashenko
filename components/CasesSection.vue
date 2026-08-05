@@ -141,10 +141,6 @@ const scrollCases = (direction: 'previous' | 'next') => {
                 <span>{{ content.cases.projectLinkLabel }}</span>
                 <ExternalLink :size="16" aria-hidden="true" />
               </a>
-              <span v-else class="case-project-link case-project-link-placeholder">
-                {{ content.cases.projectLinkPlaceholder }}
-              </span>
-
               <div class="case-stack" :aria-label="content.cases.stackLabel">
                 <span
                   v-for="stack in item.stack"

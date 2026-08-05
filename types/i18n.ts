@@ -179,7 +179,6 @@ export interface SiteTranslations {
     resultLabel: string;
     stackLabel: string;
     projectLinkLabel: string;
-    projectLinkPlaceholder: string;
     openPreviewLabel: string;
     closePreviewLabel: string;
     previousLabel: string;
